@@ -31,13 +31,13 @@
 </head>
 <body>
  <div class="topnav">
-  <a  href="homepage.html">Home</a>
-  <a href="driver_login.html">Driver Login</a>
-  <a href="van_reg.html">Van Registration</a>
-  <a href="Company_reg.html">Company Registration</a>
-  <a href="Storage.html">E-Commerce</a>
-  <a href="Complaint_reg.html">Complaints</a>
-    <a href="domestic_disposal.html">Domestic Disposal</a>
+  <a  href="index.php">Home</a>
+  <a href="logindriver.php">Driver Login</a>
+  <a href="vanreg.php">Van Registration</a>
+  <a href="cr.php">Company Registration</a>
+  <a href="eco.php">E-Commerce</a>
+  <a href="crp.php">Complaints</a>
+    <a href="waste.php">Domestic Disposal</a>
     
     
     <div id="google_translate_element"></div>

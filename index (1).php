@@ -62,7 +62,6 @@
 		.topnav {
   overflow: hidden;
   background-color: #696969;
-  padding: 15px;
 }
 
 .topnav a {
@@ -164,8 +163,7 @@
 		.letter{
 			text-align:center;
 			postion:relative;
-            top:-20px;
-            margin-bottom: 0;
+			top:-20px;
 		}
 		.footer {
   position: fixed;
@@ -186,27 +184,13 @@
 <body>
 
 <div class="container-fuild heading" >
-<p class="letter">E- Waste Management System</p>
+<p class="letter" >E- Waste Management</p>
 </div>
-<!-- Navigation Bar -->
-<div class="topnav">
-    <a  href="homepage.html">Home</a>
-    <a href="driver_login.html">Driver Login</a>
-    <a href="van_reg.html">Van Registration</a>
-    <a href="Company_reg.html">Company Registration</a>
-    <a href="Storage.html">E-Commerce</a>
-    <a href="Complaint_reg.html">Complaints</a>
-      <a href="domestic_disposal.html">Domestic Disposal</a>
-      
-      
-      <div id="google_translate_element"></div>
-  </div>
-  
- <!-- <?php
+ <?php
  
- include "nav.html"
+ include "nav.php"
  
- ?> -->
+ ?>
  
  <div class="container-fluid col message_box"  >
 <h3>IMPORTANCE OF WASTE MANAGEMENT</h3>
