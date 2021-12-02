@@ -1,1 +1,1 @@
-# IWP-jcomp
+# E-Waste-Management
